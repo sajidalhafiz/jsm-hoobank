@@ -1,12 +1,37 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+
 
 ![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+<h3 align="center"># HooBank - Modern UI/UX website using React.js & Tailwind CSS</h3>
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+   <div align="center">
+     I have Build this project by following step by step detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
+    </div>
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+## <a name="introduction">🤖 Introduction</a>
+
+HooBank is a Modern UI/UX Banking website developed using React.js and Tailwind CSS that exemplifies modern UI/UX principles.
+Its sleek design, responsive for multiple devices, and overall user experience set a high standard, serving as a reference or
+inspiration for future modern applications or websites in general.
+
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- Vite
+- React.js
+- Tailwind CSS
+
+## <a name="features">🔋 Features</a>
+
+👉 **Stunning Sections**: Includes hero, features, testimonials, download software
+sections, served company, contact, and footer.
+
+👉 **Cool CSS Gradients**: Beautiful gradient effects using CSS `before` and `after` pseudo-elements.
+
+👉 **Seamless Navigation**: Offers a smooth user experience with intuitive navigation and scrolling.
+
+👉 **Optimized Performance**: Built for fast loading and an optimized experience.
+
+👉 **Pixel Perfect Design**: Ensures flawless responsiveness across all devices and screen sizes.
+
+and many more, including code architecture and reusability
